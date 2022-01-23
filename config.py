@@ -1,0 +1,11 @@
+API_ID = "124"
+
+API_HASH = "125"
+
+SESSION = "4242"
+
+LOGS = "-100xxx"
+
+
+# BOT_TOKEN = "126"
+
